@@ -1,0 +1,1 @@
+[2023-11-09 07:20:18,596][flwr][INFO] - Starting Flower server, config: ServerConfig(num_rounds=3, round_timeout=None)

@@ -1,0 +1,17 @@
+[2024-01-19 17:02:51,341][flwr][INFO] - Starting Flower server, config: ServerConfig(num_rounds=3, round_timeout=None)
+[2024-01-19 17:02:51,577][flwr][INFO] - Flower ECE: gRPC server running (3 rounds), SSL is disabled
+[2024-01-19 17:02:51,578][flwr][INFO] - Initializing global parameters
+[2024-01-19 17:02:51,578][flwr][INFO] - Requesting initial parameters from one random client
+[2024-01-19 17:03:16,300][flwr][INFO] - Received initial parameters from one random client
+[2024-01-19 17:03:16,302][flwr][INFO] - Evaluating initial parameters
+[2024-01-19 17:03:51,792][flwr][INFO] - initial parameters (loss, other metrics): 1.1012187004089355, {'accuracy': 0.3}
+[2024-01-19 17:03:51,793][flwr][INFO] - FL starting
+[2024-01-19 17:03:51,795][flwr][DEBUG] - fit_round 1: strategy sampled 1 clients (out of 1)
+[2024-01-19 17:06:59,508][flwr][DEBUG] - fit_round 1 received 1 results and 0 failures
+[2024-01-19 17:07:05,159][flwr][WARNING] - No fit_metrics_aggregation_fn provided
+[2024-01-19 17:07:37,612][flwr][INFO] - fit progress: (1, 0.3992141783237457, {'accuracy': 0.8333333333333334}, 225.8178916)
+[2024-01-19 17:07:37,613][flwr][INFO] - evaluate_round 1: no clients selected, cancel
+[2024-01-19 17:07:37,617][flwr][DEBUG] - fit_round 2: strategy sampled 1 clients (out of 1)
+[2024-01-19 17:08:20,951][flwr][DEBUG] - fit_round 2 received 0 results and 1 failures
+[2024-01-19 17:08:57,299][flwr][INFO] - fit progress: (2, 0.3992141783237457, {'accuracy': 0.8333333333333334}, 305.5046661)
+[2024-01-19 17:08:57,300][flwr][INFO] - evaluate_round 2: no clients selected, cancel
