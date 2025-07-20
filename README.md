@@ -35,8 +35,8 @@ This project aims to:
 
 This work is published as part of a Springer book chapter:
 
-📘 [Read the full paper](https://link.springer.com/chapter/10.1007/978-981-96-2179-8_7)
-📖 Free Access (Google Books): Read on Google Books
+📘 [Read the full paper](https://link.springer.com/chapter/10.1007/978-981-96-2179-8_7) and
+📖 Free Access (Google Books): https://books.google.co.in/books?hl=en&lr=&id=iJlnEQAAQBAJ&oi=fnd&pg=PA89&ots=8i01BpnKp-&sig=cBUq7O_u5D9HRP_diAU-CrH9OOo&redir_esc=y#v=onepage&q&f=false
 
 ---
 
