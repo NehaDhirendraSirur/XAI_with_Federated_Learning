@@ -1,4 +1,4 @@
-# XAI with Federated Learning for Plant Disease Detection 🌿🤖🔍
+# XAI with Federated Learning for Plant Disease Detection
 
 This project explores the integration of Explainable Artificial Intelligence (XAI) and Federated Learning to enhance the transparency, privacy, and accuracy of plant disease detection models.
 
